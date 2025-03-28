@@ -1,0 +1,5 @@
+/.idea
+/.venv
+/apikey.txt
+/pdfs
+/__pycache__

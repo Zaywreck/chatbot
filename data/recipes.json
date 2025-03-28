@@ -1,0 +1,1628 @@
+{
+    "Fast Food for Emergencies": {
+        "Recipes": [
+            {
+                "Name": "Avocado Egg Cream",
+                "Serves": "Not specified (assumed 1)",
+                "Ingredients": [
+                    "½ soft avocado",
+                    "1 soft-boiled egg",
+                    "Worcestershire sauce (to taste)"
+                ],
+                "Method": [
+                    "Mash the avocado and soft-boiled egg together with a fork.",
+                    "Add Worcestershire sauce to taste and mix well."
+                ],
+                "Notes": []
+            },
+            {
+                "Name": "Banana Honey Cream",
+                "Serves": "Not specified (assumed 1)",
+                "Ingredients": [
+                    "1 soft banana",
+                    "1 teaspoon honey",
+                    "Double cream (to taste)"
+                ],
+                "Method": [
+                    "Mash the banana with a fork.",
+                    "Mix in the honey.",
+                    "Pour in double cream to taste and mix well."
+                ],
+                "Notes": []
+            },
+            {
+                "Name": "Banana on Toast",
+                "Serves": "Not specified (assumed 1)",
+                "Ingredients": [
+                    "Bread (crusts removed)",
+                    "Butter (for spreading)",
+                    "1 soft banana, mashed",
+                    "A little sugar (to sprinkle)"
+                ],
+                "Method": [
+                    "Cut off the bread crusts.",
+                    "Butter the bread while it’s still hot.",
+                    "Spread the mashed banana over the buttered bread.",
+                    "Sprinkle with a little sugar.",
+                    "Cut into small pieces and enjoy in a quiet corner."
+                ],
+                "Notes": [
+                    "“It’s best eaten when you are alone because you get rather messy. When it was suggested to me, I squawked—‘I haven’t any teeth!’”"
+                ]
+            },
+            {
+                "Name": "Cheesy Beans",
+                "Serves": "Not specified (assumed 1)",
+                "Ingredients": [
+                    "Baked beans (quantity not specified, assume a small portion)",
+                    "Blue cheese (to taste)",
+                    "Knob of butter"
+                ],
+                "Method": [
+                    "Combine baked beans with blue cheese and a knob of butter.",
+                    "Heat gently until the cheese melts and mixes in (optional, implied by context)."
+                ],
+                "Notes": []
+            },
+            {
+                "Name": "Egg Mayonnaise",
+                "Serves": "Not specified (assumed 1)",
+                "Ingredients": [
+                    "1 soft-boiled egg",
+                    "1 spoonful mayonnaise",
+                    "Worcestershire sauce (to taste)"
+                ],
+                "Method": [
+                    "Mash the soft-boiled egg with a fork.",
+                    "Stir in a spoonful of mayonnaise.",
+                    "Add Worcestershire sauce to taste."
+                ],
+                "Notes": [
+                    "Tastes best if the egg is still warm.",
+                    "Variations: Substitute mayonnaise with tomato paste, fish paste, liver pâté, or other pâtés based on availability.",
+                    "“A quick-to-make life saver for energy and nutrition—I have this every day as a second breakfast at 11am.”"
+                ]
+            },
+            {
+                "Name": "Garlic Butter Bean Mash",
+                "Serves": "Not specified (assumed 1–2)",
+                "Ingredients": [
+                    "Butter beans (quantity not specified, assume a small can or handful)",
+                    "Olive oil (for frying)",
+                    "Garlic (to taste)"
+                ],
+                "Method": [
+                    "Lightly fry the butter beans in olive oil with garlic.",
+                    "Press the mixture with a potato masher until mashed."
+                ],
+                "Notes": [
+                    "“Beware, the garlic taste lingers for days, particularly if you have no saliva to wash it away!”"
+                ]
+            },
+            {
+                "Name": "One-Spoon Life Savers",
+                "Serves": "Not specified (assumed 1, per serving)",
+                "Ingredients": [
+                    "Peanut butter",
+                    "Nutella",
+                    "Cream cheese triangles (e.g., Laughing Cow)",
+                    "Philadelphia full-fat cream cheese",
+                    "Houmous"
+                ],
+                "Method": [
+                    "When peckish, take a spoonful of any of the following: peanut butter, Nutella, cream cheese triangles, Philadelphia full-fat cream cheese, or houmous.",
+                    "Eat directly from the spoon."
+                ],
+                "Notes": [
+                    "No preparation required—ideal for quick energy boosts."
+                ]
+            },
+            {
+                "Name": "Fruit Smoothies - Great Vitamin Bombs",
+                "Serves": "Not specified (varies by quantity, assumed 1 per smoothie)",
+                "Ingredients": [
+                    "Soft fruits (e.g., unseeded grapes, strawberries, raspberries, blackberries, mangoes, bananas, pears, kiwis—mix 2 or 3 together)",
+                    "Honey or jam (to taste, optional)",
+                    "Full-fat yoghurt, double cream, milk, or fruit juice (e.g., orange, apple, or cordial—to taste)"
+                ],
+                "Method": [
+                    "Place your chosen soft fruits in a blender.",
+                    "Add honey or jam if you prefer it sweet.",
+                    "Add full-fat yoghurt, double cream, milk, or fruit juice.",
+                    "Blend until smooth and enjoy."
+                ],
+                "Notes": [
+                    "Most soft fruits will blend—experiment to find what suits you.",
+                    "Can be varied daily based on available ingredients. Even a simple banana, milk, and honey blend is delicious.",
+                    "Example 1: “I made a lovely fruit smoothie today: 1 banana, half a small tin of peaches (plus a little juice), and a small amount of cranberry juice—whiz it all up in the blender, it’s really nice.”",
+                    "Example 2: “Small punnets of blueberries and raspberries, 8 dried apricots, and apple juice—heat in a saucepan for 5–10 minutes and blend.”"
+                ]
+            },
+            {
+                "Name": "Novasource",
+                "Serves": "1 per box",
+                "Ingredients": [
+                    "1 box Novasource (liquid food supplement, 475 calories per box)"
+                ],
+                "Method": [
+                    "Follow the instructions on the Novasource pack to prepare and consume."
+                ],
+                "Notes": [
+                    "Similar to Ensure and Boost drinks.",
+                    "“When I had radiation the first time, I drank Ensure and Boost. These drinks enable you to fight all the wars going on inside your body. Get the weight up—your body needs to be able to fight along with the mind.”"
+                ]
+            },
+            {
+                "Name": "Peanut Butter Milkshake",
+                "Serves": "Not specified (assumed 1)",
+                "Ingredients": [
+                    "Ice cream (quantity to taste)",
+                    "Peanut butter (to taste)",
+                    "Milk (to desired consistency)"
+                ],
+                "Method": [
+                    "Blend ice cream, peanut butter, and milk together until you reach your preferred consistency."
+                ],
+                "Notes": [
+                    "“I was trying to fatten myself up before radiation treatment, so I added peanut butter to everything.”"
+                ]
+            },
+            {
+                "Name": "Rice Pudding",
+                "Serves": "1 per can",
+                "Ingredients": [
+                    "1 ring-pull can of Ambrosia rice pudding"
+                ],
+                "Method": [
+                    "Keep cans in the car for emergencies.",
+                    "Open and eat directly from the can (cold if desperate, or warm if possible)."
+                ],
+                "Notes": [
+                    "“A good instant filling food—not too awful eaten cold if desperate.”"
+                ]
+            },
+            {
+                "Name": "Scandishake",
+                "Serves": "1 per sachet",
+                "Ingredients": [
+                    "1 Scandishake sachet (600 calories when prepared)",
+                    "Milk (quantity per sachet instructions)"
+                ],
+                "Method": [
+                    "Add the Scandishake sachet to milk.",
+                    "Whisk until fully mixed."
+                ],
+                "Notes": [
+                    "Available in a variety of flavors.",
+                    "“I find them very easy to consume, especially when chilled. I obtain mine on prescription.”"
+                ]
+            },
+            {
+                "Name": "Slimfast",
+                "Serves": "1 per milkshake",
+                "Ingredients": [
+                    "1 Slimfast milkshake (pre-made)"
+                ],
+                "Method": [
+                    "Take a Slimfast milkshake with you when going out for the day.",
+                    "Drink as a meal replacement."
+                ],
+                "Notes": [
+                    "“Tasty and nutritionally balanced.”",
+                    "“If you’re underweight and worried about people seeing you with ‘slimming’ foods, the labels are easy to remove!”"
+                ]
+            }
+        ],
+        "Additional Tips": []
+    },
+    "Soups": {
+        "Recipes": [
+            {
+                "Name": "Asparagus Soup",
+                "Serves": "Not specified (assumed 2–4)",
+                "Ingredients": [
+                    "280g bunch of asparagus (or tinned)",
+                    "80g small potato, diced",
+                    "300g chicken stock (or 1 chicken stock cube)",
+                    "700ml water",
+                    "Small carton of single cream",
+                    "Butter (for cooking)"
+                ],
+                "Method": [
+                    "Melt butter in a pan over medium heat.",
+                    "Add diced potatoes and asparagus, cover, and sweat gently for 5 minutes.",
+                    "Add chicken stock and water, bring to a boil, and simmer for 20 minutes.",
+                    "Cool slightly, then liquidise and sieve.",
+                    "Reheat and stir in cream, reserving a little to swirl on top before serving."
+                ],
+                "Notes": []
+            },
+            {
+                "Name": "Avocado Soup",
+                "Serves": "Not specified (assumed 4)",
+                "Ingredients": [
+                    "4 ripe avocados",
+                    "1 jalapeño pepper, seeded and chopped",
+                    "2 garlic cloves, minced",
+                    "1 tablespoon lime juice",
+                    "4 tablespoons sherry",
+                    "700ml chicken broth",
+                    "350ml double cream",
+                    "Salt and pepper (to taste)"
+                ],
+                "Method": [
+                    "Combine avocados, jalapeño, garlic, lime juice, sherry, and chicken broth in a blender and purée until smooth.",
+                    "Stir in double cream and season with salt and pepper.",
+                    "Chill until ready to serve."
+                ],
+                "Notes": [
+                    "Freezes well.",
+                    "“Leave out the jalapeño and pepper if you can’t eat food that is too spicy.”"
+                ]
+            },
+            {
+                "Name": "Avocado and Goat’s Cheese Soup",
+                "Serves": "4",
+                "Ingredients": [
+                    "2 handfuls parsley leaves",
+                    "2 handfuls baby spinach, washed",
+                    "4 tablespoons extra virgin olive oil",
+                    "225g very soft young goat’s cheese",
+                    "300ml double cream",
+                    "2 ripe Haas avocados, stoned, peeled, and diced",
+                    "600ml vegetable stock",
+                    "1 teaspoon lemon juice",
+                    "½ teaspoon Tabasco sauce",
+                    "1 tablespoon chopped coriander",
+                    "½ teaspoon ground cumin",
+                    "½ teaspoon ground coriander",
+                    "Salt and ground black pepper (to taste)"
+                ],
+                "Method": [
+                    "Boil a pan of salted water, cook parsley and spinach for 3 minutes, drain, and plunge into cold water. Drain again and squeeze out most of the water.",
+                    "Blend parsley and spinach with 3 tablespoons olive oil in a food processor or liquidiser.",
+                    "Mash half the goat’s cheese with 3 tablespoons double cream and 2 teaspoons olive oil in a bowl, season with salt and pepper, and refrigerate until 30 minutes before serving.",
+                    "Blend avocado, stock, lemon juice, Tabasco, ground coriander, and cumin with the parsley purée until smooth.",
+                    "Add remaining goat’s cheese, cream, oil, and chopped coriander; pulse until smooth (avoid over-processing to prevent splitting).",
+                    "Pour into a tureen, thin with more stock if needed, and refrigerate.",
+                    "Serve in chilled bowls with a dollop of goat’s cheese purée and diced avocado (optional)."
+                ],
+                "Notes": [
+                    "“Excellent summer soup, kept green by parsley and spinach.”",
+                    "Source: Copyright Antony Worrall Thompson"
+                ]
+            },
+            {
+                "Name": "Easy Peasy Cheesy Soup",
+                "Serves": "4",
+                "Ingredients": [
+                    "500g frozen peas",
+                    "1 spring onion",
+                    "Chicken or vegetable stock concentrate (to taste, or 1 stock cube)",
+                    "1 ball (100g) mozzarella, roughly chopped",
+                    "750ml boiling water"
+                ],
+                "Method": [
+                    "Cook frozen peas and spring onion in boiling water with stock concentrate or cube until tender.",
+                    "Remove and discard the spring onion once peas are soft enough to blitz.",
+                    "Blend mozzarella with peas and their liquid in a blender or processor (in about three batches for velvety texture).",
+                    "Pour soup back into the pan and heat gently to meld cheese and peas, or set aside and reheat later."
+                ],
+                "Notes": [
+                    "“Soup is always more velvety when liquidised in a blender.”",
+                    "Source: ‘Feast’ by Nigella Lawson, published by Chatto & Windus. Used with permission of The Random House Group Ltd."
+                ]
+            },
+            {
+                "Name": "Emerald Green Soup",
+                "Serves": "Not specified (assumed 4–6)",
+                "Ingredients": [
+                    "1 head celery, finely chopped",
+                    "3 medium courgettes, finely chopped",
+                    "2 leeks, finely chopped",
+                    "1 onion, finely chopped",
+                    "60g butter",
+                    "1 litre vegetable or chicken stock",
+                    "Salt and pepper (to taste)"
+                ],
+                "Method": [
+                    "Melt butter in a large pan over medium heat.",
+                    "Add finely chopped celery, courgettes, leeks, and onion; sweat for 10 minutes.",
+                    "Add stock, salt, and pepper; bring to a boil and simmer for 30–40 minutes until vegetables are soft.",
+                    "Liquidise until smooth."
+                ],
+                "Notes": []
+            },
+            {
+                "Name": "Fresh Tomato Soup with Tapenade",
+                "Serves": "Not specified (assumed 4–6)",
+                "Ingredients": [
+                    "For the Soup:",
+                    "900g vine-grown tomatoes with stalks, coarsely chopped",
+                    "50ml extra virgin olive oil (plus extra for serving)",
+                    "6 garlic cloves, roughly chopped",
+                    "1 teaspoon dried chilli flakes",
+                    "Salt (to taste)",
+                    "A few basil leaves, very finely shredded (for garnish)",
+                    "For the Tapenade:",
+                    "75g pitted good-quality black olives",
+                    "4 anchovy fillets in olive oil, drained",
+                    "25g capers, drained and rinsed",
+                    "3 garlic cloves, roughly chopped",
+                    "85ml extra virgin olive oil"
+                ],
+                "Method": [
+                    "To Make the Tapenade:",
+                    "Blend olives, anchovies, capers, and garlic in a food processor until roughly combined.",
+                    "With the processor running, slowly pour in 85ml olive oil in a thin, steady stream.",
+                    "Blend until slightly coarse (not too smooth). Set aside.",
+                    "To Make the Soup:",
+                    "Coarsely chop tomatoes (including stalks) and set aside.",
+                    "Heat 50ml olive oil in a large saucepan over low heat, add garlic and chilli flakes, and cook until garlic sizzles (a few seconds).",
+                    "Add tomatoes and cook over low heat for a few minutes, stirring, until juices start to run.",
+                    "Blend mixture in a food processor or blender until finely chopped.",
+                    "Pass through a conical sieve into a clean pan, pressing with a ladle to extract liquid and pulp.",
+                    "Stir 2 tablespoons of tapenade into the soup.",
+                    "To Serve:",
+                    "Gently reheat soup over low heat until warm (avoid overheating to preserve fresh tomato flavor).",
+                    "Season with salt to taste.",
+                    "Ladle into warm bowls, drizzle with extra virgin olive oil, and garnish with shredded basil."
+                ],
+                "Notes": [
+                    "Source: Courtesy of Rick Stein"
+                ]
+            },
+            {
+                "Name": "Laughing Cow Soup",
+                "Serves": "Not specified (assumed 2–4)",
+                "Ingredients": [
+                    "4–5 courgettes (zucchini)",
+                    "1 large onion, chopped",
+                    "Butter (for frying)",
+                    "1 chicken stock cube",
+                    "3–4 Laughing Cow Kraft cheese triangles"
+                ],
+                "Method": [
+                    "Wash courgettes, trim tops and tails (leave skin on), and cut into pieces.",
+                    "Chop onion and fry in butter in a large saucepan until golden.",
+                    "Add courgette pieces on top of onions.",
+                    "Pour in enough hot water to cover vegetables, then add the chicken stock cube.",
+                    "Cook over medium heat for 12–15 minutes.",
+                    "Remove from heat, add Laughing Cow cheese triangles, and blend until very smooth.",
+                    "Serve as a smooth soup or purée."
+                ],
+                "Notes": [
+                    "“Gentle on the mouth.”"
+                ]
+            },
+            {
+                "Name": "Leek and Potato Soup",
+                "Serves": "Not specified (assumed 4–6)",
+                "Ingredients": [
+                    "4 leeks, chopped small",
+                    "2 onions, chopped small",
+                    "4 medium potatoes, diced",
+                    "500ml chicken or vegetable stock",
+                    "250ml milk",
+                    "50g butter",
+                    "Seasoning (salt and pepper, to taste)",
+                    "Optional: Swirl of double cream (for serving)"
+                ],
+                "Method": [
+                    "Melt butter in a large saucepan over gentle heat.",
+                    "Add chopped onions and leeks, softening without browning.",
+                    "Add diced potatoes, stock, milk, and seasoning.",
+                    "Bring to a boil, cover, and simmer for 20 minutes.",
+                    "Blend in a food processor until completely smooth.",
+                    "Serve hot (ideal for winter) or chilled (great for summer), with a swirl of double cream on top (optional)."
+                ],
+                "Notes": [
+                    "Variation: Replace leeks with 2 bags of watercress for a different flavor."
+                ]
+            },
+            {
+                "Name": "Roasted Garlic Soup",
+                "Serves": "Not specified (assumed 4–6)",
+                "Ingredients": [
+                    "4 heads of garlic",
+                    "2 small onions (or 1 onion and 4 leeks, white parts only, washed), chopped",
+                    "1 litre chicken broth or vegetable broth",
+                    "250ml double cream",
+                    "Juice of 1 lemon (to taste)",
+                    "80ml sherry or dry white wine",
+                    "Butter (for sautéing)",
+                    "6 tablespoons flour",
+                    "Olive oil (for roasting garlic)"
+                ],
+                "Method": [
+                    "Preheat oven to 180°C (Gas Mark 4).",
+                    "Cut tops off garlic heads to expose cloves, drizzle with olive oil, and place on a baking tray.",
+                    "Roast garlic for about 50 minutes until golden and soft, then let cool slightly.",
+                    "Melt butter in a large saucepan over medium heat, add chopped onions (and/or leeks), and sauté until soft or lightly browned.",
+                    "Stir in flour and cook for 5 minutes, stirring constantly.",
+                    "Gradually add broth, stirring to combine, and bring to a simmer.",
+                    "Squeeze roasted garlic cloves out of their skins into the pot.",
+                    "Stir in sherry or white wine and simmer for 20 minutes.",
+                    "Cool slightly, purée until smooth, return to pan, stir in double cream and lemon juice, and reheat gently without boiling.",
+                    "Serve warm."
+                ],
+                "Notes": []
+            },
+            {
+                "Name": "Spicy Roasted Butternut Squash, Parsnip, and Carrot Soup",
+                "Serves": "Not specified (assumed 4–6)",
+                "Ingredients": [
+                    "1 butternut squash, halved top-to-bottom, seeds removed",
+                    "6 carrots, peeled and diced into 1cm cubes",
+                    "4 parsnips, peeled and diced into 1cm cubes",
+                    "2 large onions, peeled and quartered",
+                    "4 cloves garlic",
+                    "1.5 litres vegetable or chicken stock",
+                    "1 bay leaf",
+                    "1 teaspoon brown sugar",
+                    "1 teaspoon mild or medium curry powder (adjust to taste)",
+                    "½ teaspoon ground cinnamon",
+                    "¼ teaspoon ground nutmeg",
+                    "Salt and pepper (to taste)",
+                    "50–100g chorizo sausage, sliced (optional)",
+                    "250ml double cream (optional)",
+                    "60ml chopped fresh parsley (for garnish)"
+                ],
+                "Method": [
+                    "Preheat oven to 170°C (Gas Mark 3.5) and line a baking sheet with foil.",
+                    "Place butternut squash halves (cut side up) and quartered onions on the baking sheet; nestle garlic cloves into the squash cavities.",
+                    "On a separate tray, spread diced carrots and parsnips, drizzle with oil, and toss to coat.",
+                    "Roast both trays for 45 minutes to 1 hour until squash is tender and carrots/parsnips begin to brown; cool slightly.",
+                    "Scrape squash flesh into a food processor with onions, carrots, parsnips, and squeezed garlic cloves (add chorizo if using); purée until smooth, adding stock if needed.",
+                    "Transfer purée to a soup pot, stir in remaining stock, bay leaf, brown sugar, curry powder, cinnamon, nutmeg, salt, and pepper.",
+                    "Bring to a boil, then simmer gently for 10 minutes.",
+                    "Stir in double cream (if using) just before serving and remove bay leaf.",
+                    "Serve hot, garnished with chopped parsley."
+                ],
+                "Notes": []
+            },
+            {
+                "Name": "Sweet Potato Soup",
+                "Serves": "Not specified (assumed 4–6, depending on appetite)",
+                "Ingredients": [
+                    "4 medium carrots",
+                    "2 large sweet potatoes",
+                    "2 regular potatoes",
+                    "1 onion",
+                    "2 parsnips",
+                    "1 medium butternut squash (optional, requires strong wrists to peel raw; easier if cooked first)",
+                    "1 vegetable stock cube",
+                    "Garlic (to taste)",
+                    "Cream or crème fraîche (for swirling)"
+                ],
+                "Method": [
+                    "Peel and chop carrots, sweet potatoes, regular potatoes, onion, parsnips, and butternut squash (if using; cook first for easier peeling).",
+                    "Place all vegetables in a large pot, cover with plenty of water, and add the stock cube.",
+                    "Boil until vegetables are tender.",
+                    "Add garlic to taste, then blend until smooth.",
+                    "Swirl in cream or crème fraîche before serving.",
+                    "Freeze leftovers."
+                ],
+                "Notes": [
+                    "Chunky Version: Blend half the soup, mash or chop the remainder, and mix together."
+                ]
+            },
+            {
+                "Name": "Sweet Potato and Fig Soup",
+                "Serves": "Not specified (assumed 2–4)",
+                "Ingredients": [
+                    "2 sweet potatoes",
+                    "5 figs",
+                    "1 medium butternut squash",
+                    "Single cream (enough for a creamy texture)",
+                    "Salt and pepper (to taste, optional)"
+                ],
+                "Method": [
+                    "Peel and chop sweet potatoes and butternut squash, then boil until tender.",
+                    "Add figs and a dollop of single cream (enough for creaminess).",
+                    "Mash everything together, then blend until smooth.",
+                    "Season with salt and pepper if desired.",
+                    "Serve warm."
+                ],
+                "Notes": []
+            },
+            {
+                "Name": "Cod  “I like cod, which I do in the microwave with milk and butter. I flake the fish, checking for bones, and use the milk with butter to make a classic béchamel sauce and pour over the flaked fish. Add a bit of dried or fresh dill to the sauce.”",
+                "Serves": "",
+                "Ingredients": [],
+                "Method": [],
+                "Notes": []
+            }
+        ],
+        "Additional Tips": []
+    },
+    "Other Starters": {
+        "Recipes": [
+            {
+                "Name": "Chicken Liver Paté",
+                "Serves": "Not specified (assumed 4–6 as a starter)",
+                "Ingredients": [
+                    "225g chicken livers",
+                    "100g butter (40g for frying, 60g for blending)",
+                    "1 tablespoon sweet sherry, port, or brandy",
+                    "Seasoning (salt and pepper, to taste)"
+                ],
+                "Method": [
+                    "Trim the chicken livers to remove any sinew or tough bits.",
+                    "Heat 40g butter in a frying pan over gentle heat and fry the livers until browned on the outside but still pink in the middle.",
+                    "Transfer the livers to a food processor and blend briefly.",
+                    "Add the remaining 60g butter, sherry (or port/brandy), and seasoning, then blend until smooth.",
+                    "Transfer the mixture to a serving dish, smooth the top, and refrigerate until set."
+                ],
+                "Notes": [
+                    "Serving Suggestion: “Delicious with hot buttered toast. If toast is too difficult, spoon the paté into the leaves of a little gem lettuce for an equally tasty alternative.”"
+                ]
+            },
+            {
+                "Name": "Crab and Avocado Pots",
+                "Serves": "4",
+                "Ingredients": [
+                    "100g white crabmeat",
+                    "100g dark crabmeat",
+                    "1 ripe avocado",
+                    "250ml béchamel sauce",
+                    "Parmesan cheese, finely grated (for sprinkling)",
+                    "Seasoning (salt and pepper, to taste)"
+                ],
+                "Method": [
+                    "Preheat the oven to 180°C (Gas Mark 4).",
+                    "Mix the white and dark crabmeat together and divide evenly between 4 ramekin dishes.",
+                    "Peel and chop the avocado, then layer it on top of the crabmeat in each ramekin.",
+                    "Pour the béchamel sauce over the avocado layer.",
+                    "Sprinkle finely grated Parmesan cheese on top.",
+                    "Place the ramekins on a baking tray and bake for 20 minutes, until golden and bubbling.",
+                    "Let rest for 5 minutes before serving (they’ll be extremely hot straight from the oven)."
+                ],
+                "Notes": [
+                    "“These pots are lovely and soft, perfect for an easy-to-eat dish.”"
+                ]
+            },
+            {
+                "Name": "Salmon Mousse",
+                "Serves": "Not specified (assumed 4–6 as a starter)",
+                "Ingredients": [
+                    "1 tin red salmon (skin and bones removed)",
+                    "150ml mayonnaise",
+                    "150ml double cream, whipped",
+                    "4 teaspoons gelatine powder",
+                    "4 tablespoons hot water",
+                    "Dash of anchovy essence (use sparingly to avoid excess saltiness)",
+                    "Juice of ½ lemon",
+                    "Seasoning (salt and pepper, to taste)"
+                ],
+                "Method": [
+                    "Remove skin and bones from the tinned salmon, then mash the salmon with its own juice in a bowl.",
+                    "Stir in mayonnaise, whipped double cream, lemon juice, anchovy essence, and seasoning until well combined.",
+                    "Sprinkle gelatine powder into 4 tablespoons hot water, stirring until completely dissolved.",
+                    "Add dissolved gelatine to the salmon mixture and mix thoroughly.",
+                    "Rinse a mould (fish-shaped is ideal, but a bowl works) with cold water, then pour in the salmon mixture.",
+                    "Cover with cling film and refrigerate until fully set (a few hours or overnight).",
+                    "To unmould, dip the mould briefly in hot water for a few minutes, then turn out onto a serving plate."
+                ],
+                "Notes": [
+                    "Serving Suggestion: “Garnish with watercress and thinly sliced cucumber for a pretty presentation.”"
+                ]
+            }
+        ],
+        "Additional Tips": []
+    },
+    "Main Courses": {
+        "Recipes": [
+            {
+                "Name": "Baked Mushrooms",
+                "Serves": "Not specified (assumed 2–4, depending on mushroom size)",
+                "Ingredients": [
+                    "Large field mushrooms (quantity not specified, adjust to need)",
+                    "A little vegetable oil",
+                    "Seasoning (salt and pepper, to taste)"
+                ],
+                "Method": [
+                    "Preheat the oven to 180°C (Gas Mark 4).",
+                    "Remove the stalks from the mushrooms.",
+                    "Pour a little vegetable oil into an ovenproof dish and coat the mushrooms in the oil.",
+                    "Season with salt and pepper, then place the mushrooms gill side down in the dish.",
+                    "Bake in the oven for 20 minutes."
+                ],
+                "Notes": [
+                    "“Baking mushrooms this way makes them extra juicy and is incredibly easy—just pop them in the oven while you do something else. Serve on their own or as an accompaniment to a main dish.”"
+                ]
+            },
+            {
+                "Name": "Baked Tomatoes",
+                "Serves": "Not specified (assumed 2–4, depending on tomato size)",
+                "Ingredients": [
+                    "Large vine-ripened tomatoes (quantity not specified, adjust to need)",
+                    "Vegetable oil",
+                    "Seasoning (salt and pepper, to taste)"
+                ],
+                "Method": [
+                    "Preheat the oven to 180°C (Gas Mark 4).",
+                    "Pour a little vegetable oil into an ovenproof dish and coat the tomatoes in the oil.",
+                    "Season with salt and pepper, then place the tomatoes in the dish.",
+                    "Bake in the oven for 20 minutes."
+                ],
+                "Notes": [
+                    "“Baking tomatoes this way makes them extra juicy and is incredibly easy—just pop them in the oven while you do something else. Serve on their own or as an accompaniment to a main dish.”"
+                ]
+            },
+            {
+                "Name": "Becky’s Kippery Kedgeree",
+                "Serves": "Adjustable (quantities below serve approximately 4)",
+                "Ingredients": [
+                    "For the Kedgeree:",
+                    "400g kippers (boil-in-the-bag or fresh)",
+                    "800g basmati rice",
+                    "2 small courgettes, diced",
+                    "1 large onion, sliced",
+                    "1 pepper (any color, based on preference), diced",
+                    "For the Sauce:",
+                    "20g butter",
+                    "100g flour",
+                    "250ml milk",
+                    "1 teaspoon paprika",
+                    "1 teaspoon cumin",
+                    "1 teaspoon chilli powder",
+                    "A pinch of nutmeg",
+                    "A pinch of cinnamon"
+                ],
+                "Method": [
+                    "Prepare the Vegetables and Rice:",
+                    "Slice the onion and dice the courgettes and pepper; place them in a steamer and set aside.",
+                    "Add basmati rice to a large pan, cover with boiling water (about three times the volume of rice, e.g., 2.4 litres), ensuring it boils off during cooking.",
+                    "Bring rice to a boil over medium-high heat, then place the steamer with vegetables on top. Cook together for 10 minutes, or until water evaporates and rice is tender.",
+                    "Cook the Kippers:",
+                    "For boil-in-the-bag kippers: Place in a pan of boiling water and cook for 6–7 minutes.",
+                    "For fresh kippers: Wrap in foil and bake in a preheated oven at 200°C (Gas Mark 6) for 10 minutes.",
+                    "Once cooked, break up the kippers with a fork and set aside.",
+                    "Make the Sauce:",
+                    "Melt butter in a small milk pan over medium heat, then stir in flour with a wooden spoon to form a roux (a small ball of butter and flour).",
+                    "Gradually add milk, bit by bit, whisking with a balloon whisk to break up the roux and create a smooth mixture; keep heat medium-low to avoid boiling.",
+                    "Once smooth, add paprika, cumin, chilli powder, nutmeg, and cinnamon; stir continuously for 5–6 minutes until the sauce thickens slightly.",
+                    "Assemble the Kedgeree:",
+                    "Check rice and vegetables after 10 minutes; if too crunchy, cook for an additional 2–3 minutes.",
+                    "Remove all pans from heat. Fold the broken-up kippers, steamed vegetables, and sauce into the rice until well combined.",
+                    "Serve:",
+                    "Serve warm, adjusting seasoning if needed."
+                ],
+                "Notes": [
+                    "Vegetables (courgettes, onion, pepper) are soft; substitute with carrots or broccoli for a crunchier texture.",
+                    "Reduce spices (paprika, cumin, chilli powder) if sensitive to heat."
+                ]
+            },
+            {
+                "Name": "Bobotie",
+                "Serves": "Not specified (assumed 4–6, based on ingredient quantities)",
+                "Ingredients": [
+                    "30g butter or margarine",
+                    "2 onions, finely chopped",
+                    "1½ teaspoons black pepper",
+                    "1½ teaspoons cayenne pepper",
+                    "1 tablespoon chutney",
+                    "450g minced meat (e.g., beef or lamb)",
+                    "30g fresh breadcrumbs",
+                    "200–250ml milk",
+                    "2 tablespoons curry powder",
+                    "2 teaspoons salt",
+                    "4 tablespoons vinegar",
+                    "1 tablespoon seedless raisins",
+                    "2 carrots, grated",
+                    "2 eggs",
+                    "2 bay leaves"
+                ],
+                "Method": [
+                    "Preheat the oven to 180°C (Gas Mark 4).",
+                    "Melt the butter in a pan over medium heat and fry the finely chopped onions until soft.",
+                    "In a bowl, mix the curry powder, salt, black pepper, cayenne pepper, vinegar, chutney, and raisins; add this mixture to the onions and fry briefly.",
+                    "Add the minced meat to the pan, breaking it up as it cooks, then stir in the grated carrots and breadcrumbs.",
+                    "Transfer the mixture to a greased pie dish and press it level.",
+                    "Whisk the eggs and milk together to make a custard, then pour it over the meat mixture.",
+                    "Place the bay leaves on top.",
+                    "Bake for 30–40 minutes, until the custard is set and lightly golden."
+                ],
+                "Notes": []
+            },
+            {
+                "Name": "Chicken and Pasta",
+                "Serves": "Not specified (assumed 1–2)",
+                "Ingredients": [
+                    "1 handful of spaghetti",
+                    "1 chicken breast",
+                    "100g cream cheese",
+                    "Milk (optional, for extra liquid)"
+                ],
+                "Method": [
+                    "Break the spaghetti into small pieces (about 1 inch) and boil in a pot of water until tender. Drain and set aside.",
+                    "Boil the chicken breast until fully cooked, then chop into tiny pieces or blend in a food processor.",
+                    "In a bowl, mix the cooked spaghetti, chicken, and cream cheese until well combined.",
+                    "Add a splash of milk if the mixture needs more liquid.",
+                    "Serve warm."
+                ],
+                "Notes": []
+            },
+            {
+                "Name": "Chicken and Spring Onions",
+                "Serves": "Not specified (assumed 2)",
+                "Ingredients": [
+                    "Thin slices of chicken breast (quantity as desired)",
+                    "4 spring onions, finely sliced",
+                    "2 medium tomatoes, finely chopped",
+                    "½ chicken stock cube",
+                    "1 tablespoon double cream",
+                    "Butter (for frying)",
+                    "Corn oil (for frying)",
+                    "Chopped parsley (optional, for garnish)"
+                ],
+                "Method": [
+                    "Heat a small amount of butter and corn oil in a pan over medium heat. Add the sliced spring onions and fry until softened.",
+                    "Add the finely chopped tomatoes and simmer gently.",
+                    "Add the chicken breast slices, keeping the heat low to avoid browning too much.",
+                    "Dissolve ½ chicken stock cube in 120ml hot water, then pour into the pan. Simmer until the chicken is cooked through.",
+                    "Reduce the heat, stir in 1 tablespoon double cream, and mix well.",
+                    "Avoid adding salt (the stock cube is salty enough); optionally, garnish with chopped parsley.",
+                    "Serve with rice."
+                ],
+                "Notes": []
+            },
+            {
+                "Name": "Easy-to-Eat Beef in Red Wine",
+                "Serves": "Not specified (assumed 4–6)",
+                "Ingredients": [
+                    "500g beef skirt, cut into small pieces",
+                    "1 large onion, finely chopped",
+                    "2 cloves garlic, finely chopped",
+                    "1 large carrot, thinly sliced",
+                    "1 large leek, thinly sliced",
+                    "125g mushrooms, sliced",
+                    "250ml beef stock",
+                    "250ml red wine",
+                    "2 tablespoons flour",
+                    "1 bay leaf",
+                    "1 bouquet garni",
+                    "Splash of Worcestershire sauce",
+                    "Seasoning (salt and pepper, to taste)",
+                    "Oil (for frying)"
+                ],
+                "Method": [
+                    "Preheat the oven to 150°C (Gas Mark 2).",
+                    "Heat a little oil in a large pan over medium heat. Fry the chopped onion and garlic until soft.",
+                    "Coat the beef pieces in flour, then add to the pan with the onions and garlic. Brown the meat on all sides.",
+                    "Transfer the mixture to a casserole dish and add the carrot, leek, mushrooms, beef stock, red wine, bay leaf, bouquet garni, Worcestershire sauce, and seasoning.",
+                    "Cover and cook in the oven for at least 2 hours (longer is better). Stir occasionally and add boiling water if the stew thickens too much; it should remain quite runny.",
+                    "Serve in a bowl with plenty of gravy, alongside rice or creamy mash."
+                ],
+                "Notes": [
+                    "“Beef skirt is an excellent cut for this dish as it becomes very tender when slow-cooked.”"
+                ]
+            },
+            {
+                "Name": "Easy-to-Eat Beef Carbonade",
+                "Serves": "Not specified (assumed 4–6)",
+                "Ingredients": [
+                    "Same as \"Easy-to-Eat Beef in Red Wine\" (see above), but replace 250ml red wine with 250ml beer (Guinness works especially well)"
+                ],
+                "Method": [
+                    "Follow the exact same method as \"Easy-to-Eat Beef in Red Wine,\" substituting beer for the red wine."
+                ],
+                "Notes": [
+                    "“Both casseroles taste even better reheated the next day. Don’t worry about the alcohol—it mostly cooks off during the process.”"
+                ]
+            },
+            {
+                "Name": "Eggs Baked",
+                "Serves": "2",
+                "Ingredients": [
+                    "2 large free-range eggs",
+                    "Handful of wilted spinach",
+                    "50ml double cream",
+                    "Seasoning (salt and pepper, to taste)",
+                    "Grated Parmesan cheese",
+                    "Butter (for greasing ramekins)"
+                ],
+                "Method": [
+                    "Preheat the oven to 180°C (Gas Mark 4).",
+                    "Butter 2 ramekin dishes. Place 1 tablespoon of wilted spinach in the bottom of each.",
+                    "Crack 1 egg into each ramekin, then pour half the cream (25ml) over each egg.",
+                    "Season with salt and pepper, then sprinkle with grated Parmesan cheese.",
+                    "Place the ramekins in a roasting tin half-filled with water (a bain-marie).",
+                    "Bake for 15 minutes, until the eggs are set but still slightly wobbly."
+                ],
+                "Notes": [
+                    "Variation: Swap spinach for finely shredded cooked leeks and add a little chopped wafer-thin ham. Top with grated Gruyère instead of Parmesan."
+                ]
+            },
+            {
+                "Name": "Eggs - Easy Cheese Soufflé",
+                "Serves": "Not specified (assumed 2–4, depending on dish size)",
+                "Ingredients": [
+                    "2 large free-range eggs, separated",
+                    "25g finely grated Parmesan cheese",
+                    "50g grated Cheddar cheese",
+                    "15g butter (plus extra for greasing)",
+                    "15g flour",
+                    "1 teaspoon English mustard powder",
+                    "150ml milk",
+                    "Seasoning (salt and pepper, to taste)"
+                ],
+                "Method": [
+                    "Preheat the oven to 200°C (Gas Mark 6).",
+                    "Butter one large soufflé dish or 6 ramekins, then sprinkle some Parmesan inside to coat the sides and base.",
+                    "In a saucepan, melt 15g butter over medium heat. Stir in flour and mustard powder, cooking for 1 minute.",
+                    "Gradually whisk in milk, stirring continuously, and bring to a boil until thickened.",
+                    "Stir in grated Cheddar and seasoning, simmer for 1 minute, then remove from heat and cool slightly.",
+                    "Beat egg yolks into the cheese mixture.",
+                    "In a separate bowl, whisk egg whites until stiff peaks form.",
+                    "Gently fold 2 tablespoons of egg whites into the cheese mixture to loosen it, then fold in the remaining whites.",
+                    "Pour into the prepared dish or ramekins, sprinkle with remaining Parmesan, and bake for 12–15 minutes (ramekins) or 20–25 minutes (large soufflé), until risen and golden."
+                ],
+                "Notes": [
+                    "“Small individual soufflés tend to cook more evenly; a large soufflé can sometimes remain sloppy in the middle.”"
+                ]
+            },
+            {
+                "Name": "Eggs - Scrambled with Smoked Salmon",
+                "Serves": "Not specified (assumed 2)",
+                "Ingredients": [
+                    "4 large free-range eggs",
+                    "50g butter",
+                    "2 tablespoons double cream",
+                    "100g smoked salmon (off-cuts work well and are more economical)",
+                    "Seasoning (salt and pepper, to taste)"
+                ],
+                "Method": [
+                    "Beat the eggs, double cream, and seasoning together in a bowl.",
+                    "Melt butter gently in a saucepan over low heat, then pour in the egg mixture.",
+                    "Stir continuously over gentle heat. While the eggs are still very wet, add the chopped smoked salmon.",
+                    "Remove from heat and serve immediately (eggs will continue cooking from residual heat; overcooking makes them rubbery)."
+                ],
+                "Notes": [
+                    "Serving Suggestion: Pairs well with wilted spinach, baked mushrooms, or baked tomatoes.",
+                    "Variation: Substitute smoked salmon with fresh garlic shoots (if available near a woodland)—the taste is wonderful!"
+                ]
+            },
+            {
+                "Name": "Haddock Smoked Florentine",
+                "Serves": "2",
+                "Ingredients": [
+                    "2 smoked haddock fillets",
+                    "400ml milk",
+                    "1 packet of spinach (fresh, about 200–250g)",
+                    "2 free-range eggs",
+                    "Seasoning (salt and pepper, to taste)",
+                    "Knob of butter (for serving)"
+                ],
+                "Method": [
+                    "Place smoked haddock fillets in a large pan and pour milk over them.",
+                    "Bring milk to a boil, then turn off heat and let the fish cook in the residual heat.",
+                    "Meanwhile, wilt the spinach in a separate pan (e.g., steam or sauté briefly), and poach the eggs.",
+                    "Lift the fish onto warmed plates, add a portion of wilted spinach, and top each with a poached egg.",
+                    "Season to taste and add a knob of butter on top.",
+                    "Serve immediately."
+                ],
+                "Notes": [
+                    "“Smoked cod works too—opt for the un-dyed variety for a nicer flavor.”"
+                ]
+            },
+            {
+                "Name": "Italian Melanzane Parmigiano",
+                "Serves": "Not specified (assumed 4–6)",
+                "Ingredients": [
+                    "2 aubergines (eggplants)",
+                    "Salt",
+                    "Oil (for frying)",
+                    "Fresh basil leaves",
+                    "2 rounds mozzarella cheese, sliced",
+                    "Grated Parmesan cheese",
+                    "1 tin plum tomatoes (liquidised)",
+                    "Butter or oil (for greasing casserole dish)"
+                ],
+                "Method": [
+                    "Slice aubergines into rounds, ½ to 1 cm thick. Lay them on a wire tray, sprinkle generously with salt, and leave for about 2 hours to draw out moisture.",
+                    "Rinse aubergine slices under water and pat dry with kitchen roll.",
+                    "Heat oil in a frying pan and gently fry aubergine slices until golden on both sides. Drain excess oil on kitchen roll.",
+                    "Preheat the oven to 180°C (Gas Mark 4). Grease a casserole dish.",
+                    "Layer one-third of the aubergine slices in the dish, top with one-third of the mozzarella slices, then one-third of the liquidised tomatoes. Add a few basil leaves and a sprinkle of Parmesan.",
+                    "Repeat layering two more times, finishing with Parmesan on top.",
+                    "Bake for 40–50 minutes, until bubbling and golden."
+                ],
+                "Notes": [
+                    "“This dish isn’t puréed but is very soft with a great taste.”"
+                ]
+            },
+            {
+                "Name": "Moreish Potato Mash",
+                "Serves": "4–6 (as an accompaniment)",
+                "Ingredients": [
+                    "1kg potatoes, peeled",
+                    "300g cottage cheese",
+                    "200g Cheddar cheese, grated",
+                    "Butter (to mash)",
+                    "Milk (to mash)"
+                ],
+                "Method": [
+                    "Boil peeled potatoes in a pot of water until fully cooked, then drain.",
+                    "Mash potatoes with a little butter and milk until smooth.",
+                    "Stir in cottage cheese and 150g grated Cheddar until well combined.",
+                    "Spoon mixture into a gratin dish and sprinkle remaining 50g Cheddar on top.",
+                    "Grill until the cheese is golden and bubbling.",
+                    "Serve warm as a side dish."
+                ],
+                "Notes": [
+                    "Adapted from Baby and Child Vegetarian Recipes by Carol Timperley."
+                ]
+            },
+            {
+                "Name": "Jubby Pie",
+                "Serves": "2",
+                "Ingredients": [
+                    "200g minced turkey or chicken (skin and fat removed)",
+                    "2 tablespoons vegetable oil",
+                    "1 medium onion, peeled and finely chopped",
+                    "1 medium leek, finely chopped",
+                    "50g frozen peas",
+                    "1 small carrot, peeled and finely chopped",
+                    "1 stick celery, finely chopped",
+                    "2 tablespoons flour",
+                    "150ml chicken stock (boiling)",
+                    "6 tablespoons tomato ketchup",
+                    "Salt and ground pepper (to taste)",
+                    "750g warm mashed potatoes (made with butter and milk, not too loose)",
+                    "Melted unsalted butter (for brushing)"
+                ],
+                "Method": [
+                    "Heat vegetable oil in a pan over medium heat. Add chopped onion and leek, and cook for 5 minutes to soften.",
+                    "Add minced turkey or chicken, frozen peas, carrot, and celery. Cook for 10 minutes, stirring occasionally.",
+                    "Stir in flour and tomato ketchup, mixing well.",
+                    "Pour in boiling chicken stock, stirring constantly, and bring to a boil. Cook for 10 minutes, or until vegetables are tender.",
+                    "Transfer mixture to a food processor and blitz until smooth. Spoon into a bowl and set aside.",
+                    "Preheat the oven to 220°C (Gas Mark 7).",
+                    "In an ovenproof dish, spread a layer of warm mashed potatoes across the bottom. Top with a layer of puréed meat mixture. Repeat layers, finishing with mashed potatoes on top.",
+                    "Brush the top with melted unsalted butter.",
+                    "Bake until the potato topping is browned and crunchy (about 20–25 minutes)."
+                ],
+                "Notes": [
+                    "“Can be made in batches and freezes well. To reheat, defrost fully and cook in a moderate oven (e.g., 180°C/Gas Mark 4) until heated through.”",
+                    "Source: Copyright Phil Vickery"
+                ]
+            },
+            {
+                "Name": "Omelette - Fluffy Light",
+                "Serves": "Not specified (assumed 1)",
+                "Ingredients": [
+                    "2 or 3 large eggs, separated",
+                    "Caster sugar (to taste, enough to be detectable despite radiation-damaged taste buds)",
+                    "A little milk",
+                    "Butter (for cooking)"
+                ],
+                "Method": [
+                    "Separate the eggs. Beat the whites until they reach the soft peak stage.",
+                    "Add caster sugar to the whites, adjusting to taste.",
+                    "Mix yolks with a little milk. Stir in a spoonful of beaten whites to loosen, then blend well.",
+                    "Gently fold yolk mixture into remaining whites using a metal spoon (to preserve air bubbles).",
+                    "Melt butter in a pan over gentle heat. Pour in the mixture and cook until the underside is set.",
+                    "Place under a preheated grill to cook the top until just set.",
+                    "Serve immediately."
+                ],
+                "Notes": [
+                    "“I had this every morning for breakfast for months until I could move on to other foods. This is the lightest possible omelette, and I really recommend it.”"
+                ]
+            },
+            {
+                "Name": "Omelette - High Calorie",
+                "Serves": "Not specified (assumed 1–2)",
+                "Ingredients": [
+                    "4 large eggs",
+                    "Double cream (a splash)",
+                    "A little milk",
+                    "A good knob of butter (plus extra for cooking)",
+                    "Grated cheese (e.g., Cheddar)",
+                    "Black pepper (to taste)"
+                ],
+                "Method": [
+                    "Break eggs into a bowl, mix in a splash of double cream, a little milk, and a knob of butter. Whisk well.",
+                    "Melt extra butter in a pan over medium heat. Pour in the egg mixture and cook until nearly firm.",
+                    "Finish under a preheated grill until fully set.",
+                    "Sprinkle with grated cheese and black pepper, then serve warm."
+                ],
+                "Notes": []
+            },
+            {
+                "Name": "Red Cabbage",
+                "Serves": "Not specified (assumed 4–6 as a side)",
+                "Ingredients": [
+                    "1 medium red cabbage, finely shredded",
+                    "1 medium onion, finely chopped",
+                    "15g margarine",
+                    "250ml water",
+                    "250ml vinegar",
+                    "3 cooking apples, peeled, cored, and chopped",
+                    "1 dessertspoon brown sugar",
+                    "Salt and pepper (to taste)",
+                    "Cornflour (optional, for thickening)",
+                    "Knob of butter (for finishing)"
+                ],
+                "Method": [
+                    "Melt margarine in a saucepan over medium heat. Add shredded cabbage and chopped onion, softening for a few minutes.",
+                    "Mix water and vinegar together, pour into the pan, season with salt and pepper, cover, and bring to a boil.",
+                    "Reduce heat and simmer for 20 minutes.",
+                    "Stir in chopped apples and brown sugar. Bring back to a boil and cook for an additional 10 minutes.",
+                    "If desired, stir in a little cornflour slurry (mixed with water) and a knob of butter to thicken.",
+                    "Serve warm."
+                ],
+                "Notes": []
+            },
+            {
+                "Name": "Red Lentil Dhal",
+                "Serves": "4–6",
+                "Ingredients": [
+                    "200g red lentils",
+                    "2 cloves garlic, sliced",
+                    "Knob of fresh ginger, sliced",
+                    "4 large tomatoes, skinned, seeded, and finely chopped",
+                    "4–6 tablespoons natural yoghurt",
+                    "Optional: Puréed vegetables (e.g., green beans, carrots, cauliflower)"
+                ],
+                "Method": [
+                    "Place red lentils, sliced garlic, and ginger in a pot with enough water to cover. Cook over medium heat for about 20 minutes, adding extra water if needed, until it reaches a thick soup consistency.",
+                    "Remove and discard garlic and ginger slices.",
+                    "Stir in chopped tomatoes and cook for an additional 5 minutes.",
+                    "Remove from heat, stir in natural yoghurt, and mix well.",
+                    "Optional: Cook and purée a mix of vegetables (e.g., green beans, carrots, cauliflower), then stir into the dhal just before serving.",
+                    "Serve with basmati rice."
+                ],
+                "Notes": [
+                    "Adapted from Baby and Child Vegetarian Recipes by Carol Timperley."
+                ]
+            },
+            {
+                "Name": "Salmon Christmas",
+                "Serves": "Not specified (assumed 2)",
+                "Ingredients": [
+                    "Knob of butter",
+                    "4 pieces smoked salmon (60g each), cut into small pieces",
+                    "2 eggs",
+                    "1 pudding spoon (about 2 tablespoons) double cream",
+                    "Finely chopped dill (to taste)"
+                ],
+                "Method": [
+                    "Beat eggs in a small bowl. Add double cream, smoked salmon pieces, and finely chopped dill, then mix well.",
+                    "Melt a large knob of butter in a pan over gentle heat (avoid burning).",
+                    "Pour in the egg mixture and stir gently until just set.",
+                    "Serve immediately—no salt needed, as the salmon is naturally salty."
+                ],
+                "Notes": []
+            },
+            {
+                "Name": "Salmon Creamy",
+                "Serves": "2",
+                "Ingredients": [
+                    "2 skinless, boneless salmon fillets",
+                    "100g button mushrooms, thinly sliced",
+                    "150ml double cream",
+                    "1 tablespoon lemon juice",
+                    "Seasoning (pepper, to taste; salt optional due to salmon’s natural flavor)",
+                    "Butter (for greasing)"
+                ],
+                "Method": [
+                    "Preheat the oven to 180°C (Gas Mark 4).",
+                    "Butter an ovenproof dish and place salmon fillets in it.",
+                    "Scatter thinly sliced mushrooms over the salmon, drizzle with lemon juice, and season lightly.",
+                    "Pour double cream over the top, then cover the dish (tin foil works fine).",
+                    "Bake for 20 minutes, until the cream is gently bubbling.",
+                    "Serve warm with rice or noodles and buttered vegetables of your choice."
+                ],
+                "Notes": []
+            },
+            {
+                "Name": "Salmon Moist Baked",
+                "Serves": "Not specified (assumed 4–6, based on 500g salmon)",
+                "Ingredients": [
+                    "500g whole piece of boneless salmon",
+                    "Juice of half a lemon",
+                    "Seasoning (salt and pepper, to taste)",
+                    "Butter (for greasing foil)"
+                ],
+                "Method": [
+                    "Preheat the oven to 180°C (Gas Mark 4).",
+                    "Butter a large sheet of tin foil and place the salmon on it.",
+                    "Squeeze the lemon juice over the salmon and season with salt and pepper.",
+                    "Seal the foil into a parcel, place it on a baking tray, and bake for 20 minutes.",
+                    "If serving hot, let it rest for 5 minutes before opening. If serving cold, leave the salmon in the foil until fully cooled."
+                ],
+                "Notes": [
+                    "Serving Suggestion: For cold: Serve with buttered new potatoes (if manageable) and half a sliced avocado."
+                ]
+            },
+            {
+                "Name": "Savoury Mince",
+                "Serves": "Not specified (assumed 4–6, based on 500g mince)",
+                "Ingredients": [
+                    "500g beef or lamb mince (replacing beef skirt from \"Easy-to-Eat Beef in Red Wine\")",
+                    "1 large onion, finely chopped",
+                    "2 cloves garlic, finely chopped",
+                    "1 large carrot, thinly sliced",
+                    "1 large leek, thinly sliced",
+                    "125g mushrooms, sliced",
+                    "250ml beef stock",
+                    "1 bay leaf",
+                    "1 bouquet garni",
+                    "Splash of Worcestershire sauce",
+                    "Seasoning (salt and pepper, to taste)",
+                    "Oil (for frying)",
+                    "Omit from original recipe: 250ml red wine and 2 tablespoons flour"
+                ],
+                "Method": [
+                    "Preheat the oven to 160°C (Gas Mark 3).",
+                    "Heat a little oil in a large pan over medium heat. Fry the onion and garlic until soft.",
+                    "Add the mince and cook until browned, breaking it up as it cooks.",
+                    "Transfer to a casserole dish and add the carrot, leek, mushrooms, beef stock, bay leaf, bouquet garni, Worcestershire sauce, and seasoning.",
+                    "Cover and cook in the oven for about 1 hour, stirring occasionally.",
+                    "Serve in bowls with rice, noodles, or mash (if manageable) to soak up the juices."
+                ],
+                "Notes": [
+                    "Variations:",
+                    "Add a tin of baked beans for a twist.",
+                    "Include canned tomatoes and tomato purée for a pasta sauce.",
+                    "Experiment with extra vegetables—casseroles with lots of veggies are tasty, tender, and easier to swallow."
+                ]
+            },
+            {
+                "Name": "Spiced Moroccan Carrot Purée",
+                "Serves": "4",
+                "Ingredients": [
+                    "450g carrots, peeled and sliced",
+                    "1 litre vegetable or chicken stock",
+                    "6 cloves garlic, chopped",
+                    "1 tablespoon chopped coriander",
+                    "1 teaspoon chopped mint",
+                    "1 teaspoon ground cumin",
+                    "1 teaspoon harissa or other chilli sauce",
+                    "2 teaspoons paprika",
+                    "55g unsalted butter",
+                    "3 tablespoons chopped flat-leaf parsley",
+                    "1 tablespoon cider vinegar (optional)",
+                    "Rock salt (to taste)"
+                ],
+                "Method": [
+                    "In a large saucepan, cook the sliced carrots in the stock over medium heat until tender, about 12–15 minutes. Drain, reserving the stock if making soup later.",
+                    "Transfer cooked carrots to a food processor and blend until smooth.",
+                    "In a mortar and pestle (or mini food processor), pound chopped garlic with a little rock salt until it forms a smooth paste.",
+                    "Add coriander, mint, cumin, harissa, and paprika to the garlic paste, and pound or blend until well combined and smooth.",
+                    "Melt butter in a non-stick frying pan over medium heat. Add the spice paste and cook for 2 minutes, stirring.",
+                    "Fold the carrot purée into the pan with the spice paste and cook until warmed through.",
+                    "Stir in chopped parsley (and cider vinegar, if using) just before serving."
+                ],
+                "Notes": [
+                    "Serving Suggestion: “This is a fiery dish! Serve as a side with meat or fish. For a soup variation, add extra stock or yoghurt at the end of cooking.”",
+                    "Source: Copyright Antony Worrall Thompson"
+                ]
+            },
+            {
+                "Name": "Spinach Sauté",
+                "Serves": "Not specified (assumed 2–4 as a side)",
+                "Ingredients": [
+                    "250g spinach",
+                    "Knob of butter",
+                    "2 cloves garlic, chopped",
+                    "Grated Parmesan (to taste)"
+                ],
+                "Method": [
+                    "Melt butter in a frying pan over medium-low heat.",
+                    "Add chopped garlic and cook until browned or softened.",
+                    "Add spinach to the pan and cook until it starts to wilt.",
+                    "Stir in grated Parmesan, mix well, and serve soon after."
+                ],
+                "Notes": []
+            },
+            {
+                "Name": "Stock - Chicken",
+                "Serves": "Not specified (makes approximately 1–2 litres, depending on water volume)",
+                "Ingredients": [
+                    "1 cooked chicken carcass (including all leftover bits)",
+                    "1 large onion (or 2 smaller ones), cut into chunks",
+                    "2 carrots, cut into chunks",
+                    "2 celery stalks, cut into chunks",
+                    "3 black peppercorns",
+                    "2 garlic cloves (optional, but recommended)",
+                    "1 bouquet garni"
+                ],
+                "Method": [
+                    "Smash up the chicken carcass with a cleaver or hands to break bigger bones (releases more flavor and nutrients).",
+                    "Chop onion, carrots, and celery into chunks. Insert garlic cloves into onion pieces.",
+                    "Place carcass, vegetables, peppercorns, and bouquet garni into a large stock pot. Cover with water.",
+                    "Bring to a gentle simmer over low heat, stirring once. Simmer for 3–5 hours, skimming off grey scum as it rises.",
+                    "Top up with hot water as needed to keep ingredients submerged.",
+                    "To strain, cover a colander or sieve with a clean white tea towel. Pour stock through and let it drip slowly (tastiest stock comes through last)."
+                ],
+                "Notes": [
+                    "“Proper straining is key to avoid cloudy or gritty stock. Be patient as it filters.”"
+                ]
+            },
+            {
+                "Name": "Stock - Vegetable",
+                "Serves": "Makes 1.5 litres",
+                "Ingredients": [
+                    "2 large onions",
+                    "4 carrots",
+                    "3 celery stalks",
+                    "4 cabbage leaves",
+                    "1 fennel bulb",
+                    "2 leeks",
+                    "1 bouquet garni",
+                    "5 black peppercorns",
+                    "A few cloves of garlic (to taste)",
+                    "Zest of 1 lemon",
+                    "2 litres water"
+                ],
+                "Method": [
+                    "Wash and chop vegetables: cut onions into chunks and insert a garlic clove into each, chop carrots and celery into chunks, slice fennel bulb, and chop cabbage leaves.",
+                    "Place all ingredients (vegetables, bouquet garni, peppercorns, garlic, and lemon zest) into a large stock pot and add 2 litres of water.",
+                    "Bring to a gentle simmer over medium heat, stirring once when it starts simmering.",
+                    "Reduce heat to low (only a few bubbles should rise) and simmer for about 2 hours, topping up with boiling water as needed to keep vegetables covered.",
+                    "Strain through a sieve or colander. Use immediately, or cool and freeze for later."
+                ],
+                "Notes": []
+            },
+            {
+                "Name": "Vegetable Cheese",
+                "Serves": "Not specified (assumed 4–6, based on 500g vegetables)",
+                "Ingredients": [
+                    "500g of one or more of the following vegetables:",
+                    "Cauliflower",
+                    "Broccoli",
+                    "Leeks",
+                    "Courgettes",
+                    "Fennel",
+                    "Celeriac",
+                    "Jerusalem artichokes",
+                    "For the Cheese Sauce:",
+                    "Basic cheese sauce (e.g., butter, flour, milk, and cheese—adjust quantities to preference)",
+                    "Cheese options: Strong Cheddar, Smoked Applewood, Red Leicester, or crumbled Stilton",
+                    "Salt (for boiling water)"
+                ],
+                "Method": [
+                    "Prepare chosen vegetables (e.g., trim and chop into bite-sized pieces).",
+                    "Bring a pot of salted water to a boil, add vegetables, and cook for 5 minutes. Drain and cover with a cloth to keep warm.",
+                    "While vegetables cook, prepare a basic cheese sauce: melt butter, stir in flour, gradually add milk, and mix in chosen cheese until smooth. Make it slightly runnier than usual for easier swallowing.",
+                    "Preheat the oven to 180°C (Gas Mark 4).",
+                    "Place drained vegetables in an ovenproof dish, pour cheese sauce over them, and cover evenly.",
+                    "Bake for 20 minutes, until bubbling and lightly golden.",
+                    "Manuka Honey for Healing: “Manuka (active) honey is a highly efficient antiseptic. After months of my ‘peg area’ refusing to heal, a friend suggested applying it on a dressing. Within days, the wound had healed over!”"
+                ],
+                "Notes": [
+                    "“A runnier cheese sauce helps the vegetables slip down more easily.”",
+                    "“Vary the cheese: Strong Cheddar is classic, Smoked Applewood adds a lovely flavor, Red Leicester brings color, or try crumbled Stilton (reduce salt in the vegetable water if using Stilton).”",
+                    "Here’s a consolidated \"General Tips\" section for all the \"Main Courses\" recipes you’ve provided so far. I’ve gathered all the additional tips scattered throughout the \"Main Courses\" section, organized them logically, and ensured they’re concise and applicable across the recipes. This will serve as a comprehensive resource for a chatbot to provide contextual advice.",
+                    "General Tips for Main Courses",
+                    "Making Blended Food Enjoyable: “Blended food can get boring, so use good-quality, rich, tasty ingredients. I trick myself by cooking my favorite foods as I’ve always liked them, admiring how good they look to excite my eyes and taste buds (‘Ooh, I’d love this!’). Then I add cream for fluidity, blend it, and top with a splash of Worcestershire sauce and grated cheese. Microwave for a minute—I’m happy and fulfilled after seeing it in its non-blended state first.”",
+                    "Tonight’s Mexicana Meal: “I cooked a mild Mexicana dish with pre-cooked small pieces of chicken and rindless bacon. I boiled milk with small pasta and mild spices, added the chicken and bacon, stirred for 2 minutes, then mixed in chopped pepper, mushrooms, tomatoes, olives, garlic, and peas, stirred for another 2 minutes, and served with sour cream and sundried tomatoes. It went down a treat with just one glass of iced coffee to help!”",
+                    "Fish Preferences: “Fish has become easier to eat over time. Kippers are okay (though harder-fleshed) and I love their strong taste. Sea bass works too. I avoid firmer, meatier fish like tuna, shark, or snapper.”",
+                    "Current Favorites: “I’m enjoying tuna steaks with a tomato-balsamic relish. Fish is great because it’s flavorful and flakes easily in the mouth.”",
+                    "Radiotherapy Meal: “Tonight, I managed a risotto with extra milky sauce—a nice change, especially with a huge mouth ulcer from radiotherapy.”",
+                    "Goat’s Cheese: “It’s strong-flavored (so you can taste it) and soft enough to eat.”",
+                    "Mashed Potato Mix: “Try mashed potato with finely chopped onions and salad cream.”",
+                    "Quick Supper: “Heat a tub of fresh pasta sauce (carbonara with angel hair spaghetti slips down particularly well) and add your favorite pasta.”",
+                    "Tonight’s Creation: “I made something lovely (though it gave me a bit of wind). I peeled and chopped a couple of small swedes, boiled them for 30 minutes to ensure they were soft, then blended them with butter, full-fat milk, and a pinch of mild curry powder. It was really nice! One of my sons helped finish the pan—I’ll probably have it every day until I’m sick of it!”",
+                    "Countering Constipation: “Opiate-based medications can cause constipation. To help, try prune juice, stewed apples, or stewed plums.”",
+                    "Enhancing Puréed Meals: “Add half a tin of baked beans to lunch or dinner to sweeten and thicken a puréed meal.”",
+                    "Relish Some Relish!:"
+                ]
+            }
+        ],
+        "Additional Tips": []
+    },
+    "Desserts": {
+        "Recipes": [
+            {
+                "Name": "Amaretti Raspberry Trifle",
+                "Serves": "Not specified (assumed 4–6)",
+                "Ingredients": [
+                    "1 packet trifle sponges",
+                    "Handful of Amaretti biscuits (plus extra for decoration)",
+                    "1 tin raspberries (drained, reserving a little liquid)",
+                    "500ml custard",
+                    "Cream (whipped, to taste)",
+                    "Amaretti liqueur (to taste)"
+                ],
+                "Method": [
+                    "Crumble trifle sponges and Amaretti biscuits into the bottom of a serving dish.",
+                    "Sprinkle Amaretti liqueur over the crumbs, adjusting to taste.",
+                    "Top with drained raspberries (reserve a little liquid for extra moisture if desired).",
+                    "Pour custard over the raspberry layer.",
+                    "Finish with a layer of whipped cream and decorate with crushed Amaretti biscuits.",
+                    "Chill until ready to serve."
+                ],
+                "Notes": []
+            },
+            {
+                "Name": "Banana Split",
+                "Serves": "1",
+                "Ingredients": [
+                    "1 banana, peeled",
+                    "1 scoop chocolate ice cream",
+                    "1 scoop vanilla ice cream",
+                    "Whipped cream (to taste)",
+                    "Chocolate sauce",
+                    "Toasted almonds (optional, for scattering)"
+                ],
+                "Method": [
+                    "Split the peeled banana lengthways and place halves on a dish, forming an oval with space in the center.",
+                    "Place a scoop of chocolate ice cream and a scoop of vanilla ice cream between the banana halves.",
+                    "Add a dollop of whipped cream on top.",
+                    "Drizzle with chocolate sauce.",
+                    "Optionally, scatter toasted almonds over the top.",
+                    "Serve immediately."
+                ],
+                "Notes": []
+            },
+            {
+                "Name": "Berry Compote",
+                "Serves": "Not specified (assumed 4–6 as a topping)",
+                "Ingredients": [
+                    "500g pack frozen summer fruits",
+                    "100g unrefined caster sugar"
+                ],
+                "Method": [
+                    "Add frozen summer fruits and caster sugar to a pan.",
+                    "Simmer very gently over low heat until fruits are soft and squidgy.",
+                    "Remove from heat and let cool. Store in the fridge.",
+                    "Serve with rice pudding, ice cream, clotted cream, Greek yoghurt, custard, porridge, pancakes, meringues, or any dessert of your choice."
+                ],
+                "Notes": []
+            },
+            {
+                "Name": "Blueberry Scones",
+                "Serves": "8 (makes 8 scones)",
+                "Ingredients": [
+                    "170g self-raising flour",
+                    "60g caster sugar",
+                    "45g butter or margarine",
+                    "150g blueberries",
+                    "5 tablespoons milk (4 initially, 1 extra if needed)",
+                    "1 extra tablespoon flour (for rolling)"
+                ],
+                "Method": [
+                    "Preheat the oven to 210°C (Gas Mark 7).",
+                    "In a bowl, rub butter or margarine into self-raising flour and caster sugar with a fork or fingers until it resembles breadcrumbs.",
+                    "Gently mix in blueberries by hand.",
+                    "Add 4 tablespoons milk and use a spoon to bring the mixture together gently (to avoid breaking blueberries).",
+                    "Add 1 more tablespoon milk to form a soft dough; sprinkle in a teaspoon or two of extra flour if needed for consistency.",
+                    "Divide dough into 8 roughly even portions. Lightly shape each into a ball by rolling on a floured surface.",
+                    "Place dough balls into paper cases on a baking tray.",
+                    "Bake for 16 minutes, until golden. Cool in the paper cases."
+                ],
+                "Notes": [
+                    "“Shortly after radiotherapy, I managed scones, but cake was trickier. For ages, I could only eat half a small ordinary scone, very slowly, with 2 cups of fluid. Now, 4 years on, I can handle one of these with just half a cup of tea. Most fruits were too acidic for my mouth for a long time, but cooked blueberries were okay.”"
+                ]
+            },
+            {
+                "Name": "Chocolate Mousse",
+                "Serves": "6",
+                "Ingredients": [
+                    "200g dark chocolate (75% cocoa solids), broken into pieces",
+                    "3 large eggs, separated",
+                    "40g golden caster sugar",
+                    "120ml warm water",
+                    "Soft whipped cream (for topping)",
+                    "6 ramekins (150ml capacity each)"
+                ],
+                "Method": [
+                    "Place broken chocolate and 120ml warm water in a large heatproof bowl over a saucepan of barely simmering water (bowl shouldn’t touch water).",
+                    "Melt chocolate slowly, stirring occasionally, for about 6 minutes until smooth and glossy. Remove from heat and cool for 2–3 minutes.",
+                    "Stir in egg yolks with a wooden spoon until fully combined.",
+                    "In a clean bowl, whisk egg whites to soft peaks. Gradually add sugar, one-third at a time, whisking until glossy.",
+                    "Fold 1 tablespoon of egg whites into the chocolate mixture to loosen it, then gently fold in remaining whites with cutting and folding motions to retain air.",
+                    "Divide mixture evenly among 6 ramekins or glasses. Cover with clingfilm and chill for at least 2 hours.",
+                    "Top each with soft whipped cream before serving."
+                ],
+                "Notes": []
+            },
+            {
+                "Name": "Damson Fool",
+                "Serves": "Not specified (assumed 4–6)",
+                "Ingredients": [
+                    "350g damsons, pitted",
+                    "Sugar (to taste, enough to ensure sweetness)",
+                    "A little water (for stewing)",
+                    "250ml custard",
+                    "2–3 large tablespoons Greek yoghurt",
+                    "Cream (for serving)"
+                ],
+                "Method": [
+                    "Stew pitted damsons in a small amount of water with sufficient sugar for 5–6 minutes, until soft.",
+                    "Press mixture through a fine sieve into a bowl using a wooden spoon, leaving stones behind.",
+                    "Stir custard into sieved damson purée.",
+                    "Add Greek yoghurt and blend everything in a blender until smooth.",
+                    "Serve with a dollop of cream on top."
+                ],
+                "Notes": []
+            },
+            {
+                "Name": "Chocolate (Soft) Brownie Cake",
+                "Serves": "Not specified (assumed 8–10, based on tin size)",
+                "Ingredients": [
+                    "170g good-quality dark chocolate, broken into squares",
+                    "170g unsalted butter",
+                    "200g caster sugar",
+                    "3 large eggs, separated",
+                    "70g plain flour",
+                    "30g finely chopped nuts (e.g., walnuts or hazelnuts)",
+                    "Butter and cocoa powder (for preparing the tin)"
+                ],
+                "Method": [
+                    "Preheat the oven to 180°C (Gas Mark 4).",
+                    "Butter a 25cm round tin, dust with cocoa powder, and line the base with baking paper.",
+                    "In a Pyrex bowl, melt chocolate, butter, and sugar together in the microwave. Stir until smooth, then cool.",
+                    "Separate eggs: place yolks in a small dish and whites in a mixing bowl.",
+                    "Beat egg whites until stiff peaks form.",
+                    "Mix egg yolks into cooled chocolate mixture with a fork.",
+                    "Fold in flour and chopped nuts until combined.",
+                    "Add a couple of spoonfuls of whipped egg whites to loosen the chocolate mixture, then gently fold in remaining whites until no streaks remain.",
+                    "Pour mixture into prepared tin (it will level naturally).",
+                    "Bake for about 40 minutes, until a skewer comes out clean. Avoid over-baking; cake won’t rise much and may have a cracked, crumbly top.",
+                    "Cool in the tin before serving."
+                ],
+                "Notes": [
+                    "“Get very fat on it!”"
+                ]
+            },
+            {
+                "Name": "Easy Peasy Mousse",
+                "Serves": "Not specified (assumed 2–4, based on punnet size)",
+                "Ingredients": [
+                    "1 punnet raspberries (about 150–200g)",
+                    "1 carton mascarpone cheese (about 250g)",
+                    "Cream (for topping)",
+                    "Extra raspberries and mint leaves (optional, for garnish)"
+                ],
+                "Method": [
+                    "Blend raspberries and mascarpone cheese together until smooth.",
+                    "Spoon mixture into glass dishes and chill until set (about 1–2 hours).",
+                    "Top each with a blob of cream, a raspberry, and a mint leaf (if available).",
+                    "Serve chilled."
+                ],
+                "Notes": []
+            },
+            {
+                "Name": "Ice Cream with Berry Sauce",
+                "Serves": "Not specified (assumed 2–4, depending on portion)",
+                "Ingredients": [
+                    "Assorted fruits (e.g., strawberries, blackberries, blueberries)",
+                    "Brown sugar (optional, to taste)",
+                    "Ice cream (any flavor)"
+                ],
+                "Method": [
+                    "Place assorted fruits in a saucepan over very low heat (no water needed, as juices will release).",
+                    "Cook gently until soft, avoiding burning.",
+                    "Blend softened fruits into a thick sauce.",
+                    "Pour hot sauce over ice cream. Add brown sugar to sauce while cooking if you have a sweet tooth.",
+                    "Store leftover sauce in the fridge for up to a day or freeze for longer."
+                ],
+                "Notes": [
+                    "“The tartness of the sauce pairs well with the sweetness of the ice cream.”"
+                ]
+            },
+            {
+                "Name": "Lemon Drizzle Cake",
+                "Serves": "Not specified (assumed 6–8, based on tin size)",
+                "Ingredients": [
+                    "100g sugar",
+                    "100g margarine",
+                    "125g self-raising flour",
+                    "2 tablespoons lemon curd",
+                    "2 standard eggs",
+                    "Grated rind of 1½ lemons",
+                    "Juice of 1½ lemons"
+                ],
+                "Method": [
+                    "Preheat the oven to 180°C (Gas Mark 4). Grease and line a cake tin.",
+                    "In a bowl, mix sugar, margarine, self-raising flour, lemon curd, eggs, and grated lemon rind until well combined.",
+                    "Pour mixture into prepared tin and bake for 50 minutes, until a skewer comes out clean.",
+                    "Remove from oven and immediately pour lemon juice over the hot cake.",
+                    "Cool in the tin before removing."
+                ],
+                "Notes": []
+            },
+            {
+                "Name": "Muffins",
+                "Serves": "Not specified (assumed 12, based on typical muffin tin)",
+                "Ingredients": [
+                    "375g self-raising flour",
+                    "125g caster sugar",
+                    "1 teaspoon baking powder",
+                    "½ teaspoon bicarbonate of soda",
+                    "2 eggs",
+                    "230ml milk",
+                    "230ml vegetable oil"
+                ],
+                "Method": [
+                    "Preheat the oven to 180°C (Gas Mark 4). Grease muffin cases and place in a muffin tin.",
+                    "In one bowl, lightly mix dry ingredients: self-raising flour, caster sugar, baking powder, and bicarbonate of soda.",
+                    "In another bowl, lightly mix wet ingredients: eggs, milk, and vegetable oil.",
+                    "Combine wet and dry mixtures, stirring gently with a spoon (not a blender) until just integrated—mixture should be well combined but not smooth.",
+                    "Spoon mixture into muffin cases, filling each about one-third full (they’ll swell up).",
+                    "Bake for 20–25 minutes, depending on preferred texture.",
+                    "Cool slightly before serving."
+                ],
+                "Notes": [
+                    "“Recommended to anyone who cannot eat bread or pasta.”"
+                ]
+            },
+            {
+                "Name": "Panna Cotta",
+                "Serves": "Not specified (assumed 4–6, based on 600ml cream)",
+                "Ingredients": [
+                    "600ml double cream",
+                    "50g caster sugar",
+                    "1 vanilla pod",
+                    "1 packet gelatine (typically 11–12g)",
+                    "3 tablespoons milk"
+                ],
+                "Method": [
+                    "In a saucepan, heat double cream, caster sugar, and vanilla pod (split and seeds scraped in) until it reaches a boil.",
+                    "Remove from heat. Dissolve gelatine in milk, then stir into the hot cream mixture until fully incorporated.",
+                    "Pour mixture into ramekins and refrigerate until set (at least 2–4 hours)."
+                ],
+                "Notes": [
+                    "Serving Suggestion: Serve with berry compote, fresh fruits like strawberries or raspberries, or stewed fruits (e.g., plums, apricots, apples). When stewing fruits, add plenty of sugar to avoid tartness."
+                ]
+            },
+            {
+                "Name": "Pancake - Basic Mix",
+                "Serves": "Makes approximately 12 pancakes",
+                "Ingredients": [
+                    "110g plain flour",
+                    "2 large free-range eggs",
+                    "200ml milk + 75ml water (mixed together)",
+                    "Pinch of salt",
+                    "50g butter, melted (plus extra for cooking)"
+                ],
+                "Method": [
+                    "In a bowl, whisk eggs into flour until fully incorporated.",
+                    "Gradually add milk-water mixture, whisking until smooth.",
+                    "Stir in pinch of salt and most of the melted butter (reserve a little for cooking).",
+                    "Heat an omelette-sized pan over high heat and brush with melted butter.",
+                    "Pour a thin layer of batter into the hot pan, swirling to coat the base evenly. Cook for a few minutes until edges lift, then toss or flip to cook the other side.",
+                    "Repeat until all batter is used, stacking pancakes with greaseproof paper between each.",
+                    "Wrap stack in tin foil and store in the fridge for up to 2 days or freeze for longer.",
+                    "To reheat, place covered pancakes on a plate over a saucepan of gently simmering water for about 10 minutes."
+                ],
+                "Notes": []
+            },
+            {
+                "Name": "Pancake Ideas",
+                "Serves": "Varies (based on Basic Mix)",
+                "Ingredients": [],
+                "Method": [],
+                "Notes": [
+                    "Suggestions:",
+                    "Classic Twist: Lemon and caster sugar might be too sharp; try orange juice instead.",
+                    "Sweet Toppings: Golden syrup, maple syrup, runny honey, or ice cream sauces (e.g., chocolate, toffee, strawberry).",
+                    "Indulgent Finish: Serve hot pancakes with a big slug of double cream and a generous scoop of ice cream.",
+                    "Get Creative: Add whatever you fancy—these are just a few ideas!"
+                ]
+            },
+            {
+                "Name": "Sweet Treats",
+                "Serves": "Varies (suggestions only)",
+                "Ingredients": [],
+                "Method": [],
+                "Notes": [
+                    "Preparation Tip: “Keep a fluid nearby (e.g., tea or hot chocolate) to soften sweets and help wash them down.”",
+                    "Suggestions:",
+                    "Chocolate Options: Mint or orange chocolate matchsticks—dip in tea to soften.",
+                    "Jelly Treats: Children’s jelly fruits—easy to manage with a sip of tea.",
+                    "Turkish Delight: Fine chocolate coating might be tolerable; cut into small squares and wash down with tea.",
+                    "Caramel Alternatives: Hard caramels can be tough post-radiation. Opt for softer options like fudge or Curly Wurlies, kept at room temperature for softer texture. Soften in tea or cut into tiny pieces.",
+                    "Liquorice: “As the years have passed, I’ve moved onto liquorice, which is interesting taste-wise—not quite as before, but interesting.”",
+                    "“It just feels so normal to be able to eat a sweetie.”"
+                ]
+            }
+        ],
+        "Additional Tips": []
+    }
+}

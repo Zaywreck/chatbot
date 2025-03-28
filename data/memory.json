@@ -1,0 +1,36 @@
+{
+  "127.0.0.1": [
+    {
+      "prompt": "Merhaba Sıvı tüketmekte zorlanıyorum ferahlatıcı ne yiyebilirim.",
+      "response": "Merhaba, ağız sağlığı sorunlarınız için sıvı tüketmeyi kolaylaştıracak iki tarif önerebilirim:\n\n**1. Meyve Smoothieleri - Harika Vitamin Bombası:**\n\n**Malzemeler:**  Yumuşak meyveler (çekirdeksiz üzüm, çilek, ahududu, böğürtlen, mango, muz, armut, kivi - 2 veya 3'ünü karıştırın), Bal veya reçel (isteğe bağlı, tatlandırmak için), Tam yağlı yoğurt, çift krema, süt veya meyve suyu (örneğin, portakal, elma veya şurup - zevke göre).\n\n**Hazırlanışı:** Seçtiğiniz yumuşak meyveleri bir blendera koyun. İsterseniz bal veya reçel ekleyin. Tam yağlı yoğurt, çift krema, süt veya meyve suyu ekleyin. Pürüzsüz olana kadar blendlayın ve afiyet olsun.\n\n**Neden Uygun:**  Tamamen püre haline getirildiği için ağızda kolayca çiğnenir ve yutulur.  Farklı meyve kombinasyonlarıyla her gün değişiklik yapılabilir.\n\n\n**2.  Novasource:**\n\n**Malzemeler:** 1 kutu Novasource (sıvı gıda takviyesi, kutu başına 475 kalori).\n\n**Hazırlanışı:** Novasource paketindeki talimatları izleyin.\n\n**Neden Uygun:**  Hazır tüketime uygun, yüksek kalorili ve besleyici bir sıvı gıda takviyesidir. Ağız sağlığı sorunları olanlar için kolay tüketim sağlar.\n\n\nUmarım yardımcı olur!\n",
+      "condition": "Ağız sağlığı sorunları",
+      "context": "Bireyin ağız sağlığı için uygun yiyecekler aranıyor. Sıvı kıvam tercih ediliyor."
+    }
+  ],
+  "192.168.149.105": [
+    {
+      "prompt": "Ghh",
+      "response": "Önceki konuşma geçmişi olmadığı için genel ağız sağlığı sorunlarına uygun iki tarif önereceğim.  Yiyeceklerin yumuşak ve kolay çiğnenebilir olması önemlidir.\n\n**1. Muzlu Ekmek Kızartması:**\n\n**Malzemeler:** Kabukları çıkarılmış ekmek, tereyağı, ezilmiş yumuşak bir muz, az miktarda şeker.\n\n**Yapılışı:** Ekmeklerin kabukları çıkarılır. Sıcakken tereyağı sürülür. Üzerine ezilmiş muz yayılır ve az miktarda şeker serpilir. Küçük parçalara bölünerek yenir.\n\n**Uygunluk:** Ağızda yaralar veya hassasiyet varsa kabukları çıkarılmış ekmek ve ezilmiş muz yumuşak bir kıvam sağlar.  Küçük parçalara bölmek çiğneme zorluğunu azaltır.\n\n**2. Avokado Yumurta Kreması:**\n\n**Malzemeler:** Yarım yumuşak avokado, bir yumuşak haşlanmış yumurta, Worcestershire sosu (damak zevkinize göre).\n\n**Yapılışı:** Avokado ve haşlanmış yumurta çatalla ezilir. Worcestershire sosu eklenerek karıştırılır.\n\n**Uygunluk:** Yumuşak kıvamıyla çiğneme ve yutma güçlüğü çekenler için uygundur.  Avokado ve yumurta besleyici değerleri yüksektir.\n",
+      "condition": "Ağız sağlığı sorunları",
+      "context": "Bireyin ağız sağlığı için uygun yiyecekler aranıyor."
+    },
+    {
+      "prompt": "Merhaba ağzımda yara var ve katı tüketemiyorum, kilo almama yardımcı olacak bir yemeğe ihtiyacım var ",
+      "response": "Merhaba, ağzınızdaki yara nedeniyle katı gıdaları tüketmekte zorlandığınızı ve kilo almak istediğinizi anlıyorum.  Bu durumda size iki tarif önerebilirim:\n\n**1. Muzlu Ekmek Kızartması:**\n\n**Malzemeler:** Kabukları çıkarılmış ekmek, tereyağı, ezilmiş yumuşak bir muz, az miktarda şeker.\n\n**Yapılışı:** Ekmeklerin kabukları çıkarılır.  Sıcak tereyağı sürülür. Üzerine ezilmiş muz yayılır ve az miktarda şeker serpilir. Küçük parçalara bölünerek yenir.\n\n**Uygunluk:** Yumuşak kıvamı ve küçük parçalar halinde yenmesi, ağız yarası olanlar için idealdir. Ekstra kalori için tereyağı ve şeker ekleyebilirsiniz.\n\n\n**2. Avokado Yumurta Kreması:**\n\n**Malzemeler:** Yarım yumuşak avokado, bir yumuşak haşlanmış yumurta, Worcestershire sosu (damak zevkinize göre).\n\n**Yapılışı:** Avokado ve haşlanmış yumurta çatalla ezilir. Worcestershire sosu eklenerek karıştırılır.\n\n**Uygunluk:**  Çok yumuşak kıvamıyla çiğneme ve yutma zorluğu yaşayanlar için oldukça uygundur. Avokado ve yumurta, yüksek besleyici değere sahiptir ve kilo almanıza yardımcı olabilir.\n",
+      "condition": "Ağız sağlığı sorunları",
+      "context": "Bireyin ağız sağlığı için uygun yiyecekler aranıyor."
+    },
+    {
+      "prompt": "Merhaba yutkunurken zorlanıyorum ferahtalatıcı bir şeyler önerir misin ",
+      "response": "Merhaba, yutkunmada zorluk çektiğinizi anlıyorum.  Size ferahlatıcı ve yutkunmayı kolaylaştıracak iki tarif önerebilirim:\n\n**1. Muzlu Ekmek Kızartması:**\n\n**Malzemeler:** Kabukları çıkarılmış ekmek, tereyağı, ezilmiş yumuşak bir muz, az miktarda şeker.\n\n**Yapılışı:** Ekmeklerin kabukları çıkarılır. Sıcak tereyağı sürülür. Üzerine ezilmiş muz yayılır ve az miktarda şeker serpilir.  Çok küçük parçalara bölünerek yenir.\n\n**Uygunluk:** Yumuşak kıvamı ve küçük parçalara bölünmesi yutkunmayı kolaylaştırır. Muz ferahlatıcı bir etki sağlar.\n\n\n**2. Avokado Yumurta Kreması:**\n\n**Malzemeler:** Yarım yumuşak avokado, bir yumuşak haşlanmış yumurta, Worcestershire sosu (damak zevkinize göre).\n\n**Yapılışı:** Avokado ve haşlanmış yumurta çatalla iyice ezilir. Worcestershire sosu eklenerek karıştırılır.\n\n**Uygunluk:**  Pürüzsüz ve yumuşak kıvamıyla yutkunmayı kolaylaştırır.  Ferahlatıcı bir etkisi olmasa da, besleyici ve kolay tüketilebilir bir seçenektir.\n",
+      "condition": "Ağız sağlığı sorunları",
+      "context": "Bireyin ağız sağlığı için uygun yiyecekler aranıyor."
+    },
+    {
+      "prompt": "Bana sıcak bir şey önerir misin ",
+      "response": "Ağzınızdaki yaralar ve yutkunma zorluğu nedeniyle,  sıcak servis edilen ve yumuşak kıvamlı iki tarif önerebilirim:\n\n\n**1. Muzlu Ekmek Kızartması:**\n\n**Malzemeler:** Kabukları çıkarılmış ekmek, tereyağı, ezilmiş yumuşak bir muz, az miktarda şeker.\n\n**Yapılışı:** Ekmeklerin kabukları çıkarılır. Sıcak tereyağı sürülür. Üzerine ezilmiş muz yayılır ve az miktarda şeker serpilir. Çok küçük parçalara bölünerek yenir.\n\n**Uygunluk:** Yumuşak kıvamı ve küçük parçalara bölünmesi yutkunmayı kolaylaştırır.  Sıcak tereyağı ek rahatlatıcı bir etki sağlayabilir. Muz da ek kalori ve besin değeri sağlar.\n\n\n**2. Avokado Yumurta Kreması:**\n\n**Malzemeler:** Yarım yumuşak avokado, bir yumuşak haşlanmış yumurta, Worcestershire sosu (damak zevkinize göre).\n\n**Yapılışı:** Avokado ve haşlanmış yumurta çatalla iyice ezilir.  İsterseniz,  hafifçe ısıtarak servis edebilirsiniz. Worcestershire sosu eklenerek karıştırılır.\n\n**Uygunluk:**  Pürüzsüz ve yumuşak kıvamıyla yutkunmayı kolaylaştırır.  Isıtıldığında rahatlatıcı olabilir. Avokado ve yumurta yüksek besleyici değere sahiptir.\n",
+      "condition": "Ağız sağlığı sorunları",
+      "context": "Bireyin ağız sağlığı için uygun yiyecekler aranıyor. Sıcak servis öneriliyor."
+    }
+  ]
+}
