@@ -32,5 +32,13 @@
       "condition": "Ağız sağlığı sorunları",
       "context": "Bireyin ağız sağlığı için uygun yiyecekler aranıyor. Sıcak servis öneriliyor."
     }
+  ],
+  "192.168.72.193": [
+    {
+      "prompt": "merhaba ağzımda yara var yardımcı olur musun ",
+      "response": "Merhaba, ağzınızdaki yaralar için önerilerim şunlardır:\n\n1. **Muzlu Bal Kreması:** 1 yumuşak muz, 1 çay kaşığı bal ve isteğe bağlı olarak krema. Muzu çatalla ezin, balı karıştırın ve krema ekleyip iyice karıştırın.  Yumuşak kıvamı ve tatlılığı ağız yaralarına naziktir.\n\n2. **Yumurtalı Mayonez:** 1 yumuşak haşlanmış yumurta, 1 yemek kaşığı mayonez, Worcestershire sosu (tat vermek için). Yumurtayı çatalla ezin, mayonezi ve sosu ekleyip karıştırın.  Yumuşak ve kremsi yapısı ağızda kolayca dağılır.  Mayonez yerine, elinizde varsa farklı püreler de kullanılabilir.\n\n\n",
+      "condition": "Ağız sağlığı sorunları",
+      "context": "Bireyin ağız sağlığı için uygun yiyecekler aranıyor."
+    }
   ]
 }
